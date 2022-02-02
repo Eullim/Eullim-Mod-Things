@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Santa.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa0000" x="20" y="20" width="369" height="769"/>
+	<SubTexture name="santa BALD0000" x="409" y="20" width="369" height="769"/>
+	<SubTexture name="santa alt0000" x="798" y="20" width="369" height="769"/>
+	<SubTexture name="santa hurt0000" x="1187" y="20" width="897" height="769"/>
+	<SubTexture name="santa hurt0001" x="1187" y="20" width="897" height="769"/>
+	<SubTexture name="santa hurt0002" x="2104" y="20" width="757" height="769" frameX="-140" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0003" x="2881" y="20" width="658" height="769" frameX="-239" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0004" x="2881" y="20" width="658" height="769" frameX="-239" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0005" x="3559" y="20" width="437" height="769" frameX="-460" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0006" x="3559" y="20" width="437" height="769" frameX="-460" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0007" x="20" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0008" x="20" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0009" x="409" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0010" x="798" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0011" x="1187" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0012" x="1576" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0013" x="1965" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0014" x="2354" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0015" x="2743" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0016" x="3132" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0017" x="3521" y="809" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0018" x="20" y="1598" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0019" x="409" y="1598" width="369" height="769" frameX="-528" frameY="0" frameWidth="897" frameHeight="769"/>
+	<SubTexture name="santa hurt0020" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0021" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0022" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0023" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0024" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0025" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0026" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0027" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0028" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0029" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0030" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0031" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0032" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0033" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0034" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0035" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0036" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0037" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0038" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0039" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0040" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0041" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0042" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0043" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0044" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0045" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0046" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0047" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0048" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0049" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0050" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0051" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+	<SubTexture name="santa hurt0052" x="798" y="20" width="369" height="769" frameX="-528" frameY="0" frameWidth="369" frameHeight="769"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt idle0000" x="20" y="20" width="388" height="399" frameX="0" frameY="0" frameWidth="395" frameHeight="399"/>
+	<SubTexture name="matt idle0001" x="428" y="20" width="395" height="399"/>
+</TextureAtlas>
